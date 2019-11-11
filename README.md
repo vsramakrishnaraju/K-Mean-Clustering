@@ -1,5 +1,6 @@
-# Naive-Bayes-Classifier
-implementing Naive Bayes Classifier in Python.
+# K-Mean-Clustering-
+
+implementing K-Mean-Clustering in Python.
 
 
 
