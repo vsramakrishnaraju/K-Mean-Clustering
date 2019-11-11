@@ -2,7 +2,6 @@
 # coding: utf-8
 
 
-#A skeleton for implementing Naive Bayes Classifier in Python.
 ## Author: Venkata 
 
 import numpy as np
