@@ -1,4 +1,4 @@
-# K-Mean-Clustering-
+# K-Mean-Clustering
 
 implementing K-Mean-Clustering in Python.
 
